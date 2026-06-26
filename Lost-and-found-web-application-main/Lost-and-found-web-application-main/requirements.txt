@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-Mail==0.9.1
+mysql-connector-python==8.1.0
+Werkzeug==2.3.7
+cloudinary==1.36.0
+python-dotenv==1.0.0
+reportlab==4.0.7
