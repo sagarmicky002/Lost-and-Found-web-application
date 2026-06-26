@@ -165,3 +165,4 @@ Helper functions:
 For issues or questions, refer to the documentation or check the code comments.
 
 ## License
+This project is part of the AIML Department Lost & Found System.
